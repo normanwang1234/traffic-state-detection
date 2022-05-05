@@ -1,6 +1,6 @@
 # Traffic Object and State Detection Sources
 
-Links to Files - File Size Too Big to Upload:
+Link to Big Files (Too Big to Upload)
 https://drive.google.com/drive/folders/1Cvj7vx6VXTd_SLucwsgy_7h3_eWOlJ4Z?usp=sharing
 
 Heuristic Algorithm for Determining Traffic Light Color:
